@@ -24,6 +24,7 @@ gem 'coffee-rails', '~> 4.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
 gem 'turbolinks', '~> 5'
 gem 'jquery-rails'
+gem "haml-rails", "~> 1.0"
 gem 'bootstrap', '~> 4.0.0.beta2.1'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
