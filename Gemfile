@@ -26,6 +26,7 @@ gem 'turbolinks', '~> 5'
 gem 'jquery-rails'
 gem "haml-rails", "~> 1.0"
 gem 'bootstrap', '~> 4.0.0.beta2.1'
+gem "autoprefixer-rails"
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
